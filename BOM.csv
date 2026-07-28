@@ -2,4 +2,3 @@ No,Designator,Component,Specification,Quantity,Supplier,Purchase Link,Notes
 1,U1,ESP32-S3-WROOM Development Board,ESP32-S3-WROOM-1 16MB Flash 8MB PSRAM Dual USB-C,1,Amazon India,https://www.amazon.in/dp/B0GW6Y1DDK,Main controller with camera connector
 2,CAM1,OV2640 Camera Module,2MP OV2640 24-pin FPC 66 Degree Lens,1,Probots,https://probots.co.in/ov2640-2-mp-camera-module-2-1cm-66-degree-24pin.html,Compatible with onboard camera connector
 3,DISP1,2.8 inch TFT LCD Touch Display,240x320 SPI ILI9341 + XPT2046 Touch,1,Robu,https://robu.in/product/2-8-inch-spi-touch-screen-module-tft-interface-240320/,Main display and touchscreen
-4,CBL1,Female Dupont Jumper Wires,20cm Female-Female,20,Robu or Amazon,https://robu.in/product/premium-jumper-wire-female-to-female-20cm-40pcs/,For SPI wiring
