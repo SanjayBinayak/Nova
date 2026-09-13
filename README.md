@@ -7,6 +7,9 @@ A pocket assistant built from three parts and wired by hand: a microcontroller, 
 <img width="1920" height="1080" alt="Screenshot (576)" src="https://github.com/user-attachments/assets/37784f2f-3057-4dd1-8eee-58168c5ac678" />
 <img width="1920" height="1080" alt="Screenshot (575)" src="https://github.com/user-attachments/assets/6cc45ced-ce0e-4366-abe3-c02f83434ca8" />
 <img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/d3c838c4-ffd6-41ad-a1a2-930430f46e19" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2e3c62a-3b49-4565-908e-f46743193fca" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c528b9b-7e02-4aa5-b912-6611beec495c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/182a6e46-284f-4999-977a-2b4342d146f6" />
 
 
 
